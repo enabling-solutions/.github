@@ -1,9 +1,12 @@
+![enabling-solutions](https://raw.githubusercontent.com/enabling-solutions/.github/main/profile/enabling-solutions.webp)
+
 # Commerce & Enabling Solutions
-## A Jakala Company
 
 ### Who are we? 
 
 *At Commerce & Enabling Solutions, we help companies to build and accelerate their digital business*.
+
+---
 
 ### Digital Experience
 
@@ -17,4 +20,7 @@ We help you implement digital strategies to grow your business. Our team's exper
 
 We assist in building modern technology foundations for scalable growth. Our R&D teams continually research and test emerging frameworks and technologies like React, Node.js, Vercel, and AWS. We offer end-to-end support in building your digital products from the ground up.
 
+---
 
+## :round_pushpin: We are hiring!
+View our [website](https://enabling-solutions.com/) and apply now.
